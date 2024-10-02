@@ -1,0 +1,25 @@
+p{
+    background-color: hsla(0, 100%, 79%, 0.922);  
+    font-family: "Arial", serif ;
+}
+
+.class-1{
+
+    font-size: 30px;
+
+}
+
+#id-2{
+    font-size: 100px;
+    color: blue;
+}
+
+#id-4{
+    background-color: hsla(125, 100%, 75%, 0.922);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.class-3{
+    font-size: 50px;
+}
